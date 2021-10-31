@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.top{
+    background-color: bisque;
+    height: 4rem;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 2rem;
+    padding: 10px;
+}
+.top i{
+    color: red;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.nav{
+    background-color: black;
+    height: 7rem;
+    color: white;
+    font-size: 2rem;
+}
+.nav a{
+    color: white;
+    font-size: 1.5rem;
+    padding-top: 1.5rem;
+    
+}
+.hero{
+    background-color: wheat;
+}
+.hero img{
+    width: 80%;
+    margin-left: 10.5rem;
+    padding-top: 10rem;
+    padding-bottom: 6rem;
+}
+.bilion{
+    background-color: black;
+    height: 10rem;
+    color: white;
+}
+.head{
+    margin-top: 8rem;
+    margin-bottom: 5rem;
+    text-align: center;
+    font-size: 20px;
+}
+.head h1{
+    font-size: 3rem;
+    color: red;
+}
+.card{
+    margin-left: 15rem;
+    margin: 2rem;
+}
+.foot{
+    background-color: #edf8fa;
+    
+}
